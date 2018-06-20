@@ -1,5 +1,6 @@
 <?php
-echo "Coisa linda!";
+$string = "coisa linda!";
+echo $string;
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
