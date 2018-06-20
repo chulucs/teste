@@ -1,3 +1,6 @@
+<?php
+echo "Coisa linda!";
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
    <head>
